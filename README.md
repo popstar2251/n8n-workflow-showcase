@@ -1,9 +1,7 @@
 # n8n Automation Portfolio
 
-**Sasidhar Sunkesula** · Full-Stack Developer & Automation Engineer
-📧 www.sasidharsunkesula579@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/sasidhar-sunkesula) · 💻 [GitHub](https://github.com/Sasidhar-Sunkesula) · 🌐 [Live Portfolio](https://n8n-workflow-showcase-five.vercel.app/)
-
 ---
+
 
 ## What This Is
 
@@ -133,4 +131,4 @@ n8n-workflow-showcase/
 
 ---
 
-*Built by Sasidhar Sunkesula · Full-Stack Developer & Automation Engineer*
+
